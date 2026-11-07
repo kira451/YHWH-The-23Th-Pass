@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yhwh-the-23th-pass.altalune0130.workers.dev/sitemap.xml
+Sitemap: https://REPLACE-WITH-YOUR-DOMAIN/sitemap.xml
